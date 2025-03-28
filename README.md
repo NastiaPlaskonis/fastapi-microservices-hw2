@@ -1,6 +1,6 @@
 # FastAPI Microservices 
 
-# Author
+### Author
 **Anastasia Plaskonis**
 
 This project showcases a simple microservice-based application using Python and FastAPI. It consists of three separate services that communicate over HTTP and form a basic processing pipeline. The gateway service includes token-based authorization to protect access.
